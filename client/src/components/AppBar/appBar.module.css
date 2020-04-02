@@ -14,7 +14,7 @@
   color: rgb(219, 255, 221);
 }
 
-@media (max-width: 670px) {
+@media (max-width: 669px) {
   .container {
     display: flex;
     flex-direction: column;
