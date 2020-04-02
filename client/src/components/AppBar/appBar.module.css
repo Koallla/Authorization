@@ -2,9 +2,9 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 19px;
+  padding: 10px;
   background-color: rgba(63, 20, 20, 0.568);
-  font-size: 20px;
+  font-size: 15px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-transform: uppercase;
 }
@@ -14,7 +14,7 @@
   color: rgb(219, 255, 221);
 }
 
-@media (max-width: 734px) {
+@media (max-width: 670px) {
   .container {
     display: flex;
     flex-direction: column;
@@ -27,7 +27,7 @@
   }
 }
 
-@media (min-width: 790px) {
+@media (min-width: 701px) {
   .container {
     justify-content: space-between;
   }
